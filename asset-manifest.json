@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mentor_react/static/css/main.11feef4a.chunk.css",
+    "main.js": "/mentor_react/static/js/main.c93912be.chunk.js",
+    "main.js.map": "/mentor_react/static/js/main.c93912be.chunk.js.map",
+    "runtime-main.js": "/mentor_react/static/js/runtime-main.cfab4eac.js",
+    "runtime-main.js.map": "/mentor_react/static/js/runtime-main.cfab4eac.js.map",
+    "static/js/2.e56c0f01.chunk.js": "/mentor_react/static/js/2.e56c0f01.chunk.js",
+    "static/js/2.e56c0f01.chunk.js.map": "/mentor_react/static/js/2.e56c0f01.chunk.js.map",
+    "static/js/3.12563c49.chunk.js": "/mentor_react/static/js/3.12563c49.chunk.js",
+    "static/js/3.12563c49.chunk.js.map": "/mentor_react/static/js/3.12563c49.chunk.js.map",
+    "index.html": "/mentor_react/index.html",
+    "static/css/main.11feef4a.chunk.css.map": "/mentor_react/static/css/main.11feef4a.chunk.css.map",
+    "static/js/2.e56c0f01.chunk.js.LICENSE.txt": "/mentor_react/static/js/2.e56c0f01.chunk.js.LICENSE.txt",
+    "static/media/mentor_icon.b40cfe79.png": "/mentor_react/static/media/mentor_icon.b40cfe79.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfab4eac.js",
+    "static/js/2.e56c0f01.chunk.js",
+    "static/css/main.11feef4a.chunk.css",
+    "static/js/main.c93912be.chunk.js"
+  ]
+}
