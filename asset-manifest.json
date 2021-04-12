@@ -1,26 +1,43 @@
 {
   "files": {
     "main.css": "/mentor_react/static/css/main.11feef4a.chunk.css",
-    "main.js": "/mentor_react/static/js/main.425c63e3.chunk.js",
-    "main.js.map": "/mentor_react/static/js/main.425c63e3.chunk.js.map",
+    "main.js": "/mentor_react/static/js/main.a32412c2.chunk.js",
+    "main.js.map": "/mentor_react/static/js/main.a32412c2.chunk.js.map",
     "runtime-main.js": "/mentor_react/static/js/runtime-main.5c80b0cd.js",
     "runtime-main.js.map": "/mentor_react/static/js/runtime-main.5c80b0cd.js.map",
     "static/css/2.f5c51995.chunk.css": "/mentor_react/static/css/2.f5c51995.chunk.css",
-    "static/js/2.4dccd2c2.chunk.js": "/mentor_react/static/js/2.4dccd2c2.chunk.js",
-    "static/js/2.4dccd2c2.chunk.js.map": "/mentor_react/static/js/2.4dccd2c2.chunk.js.map",
+    "static/js/2.a047ffa1.chunk.js": "/mentor_react/static/js/2.a047ffa1.chunk.js",
+    "static/js/2.a047ffa1.chunk.js.map": "/mentor_react/static/js/2.a047ffa1.chunk.js.map",
     "static/js/3.5c1789d8.chunk.js": "/mentor_react/static/js/3.5c1789d8.chunk.js",
     "static/js/3.5c1789d8.chunk.js.map": "/mentor_react/static/js/3.5c1789d8.chunk.js.map",
     "index.html": "/mentor_react/index.html",
     "static/css/2.f5c51995.chunk.css.map": "/mentor_react/static/css/2.f5c51995.chunk.css.map",
     "static/css/main.11feef4a.chunk.css.map": "/mentor_react/static/css/main.11feef4a.chunk.css.map",
-    "static/js/2.4dccd2c2.chunk.js.LICENSE.txt": "/mentor_react/static/js/2.4dccd2c2.chunk.js.LICENSE.txt",
-    "static/media/mentor_icon.b40cfe79.png": "/mentor_react/static/media/mentor_icon.b40cfe79.png"
+    "static/js/2.a047ffa1.chunk.js.LICENSE.txt": "/mentor_react/static/js/2.a047ffa1.chunk.js.LICENSE.txt",
+    "static/media/canvas-logo.b5e4043c.png": "/mentor_react/static/media/canvas-logo.b5e4043c.png",
+    "static/media/chat-logo.ccb03cd6.png": "/mentor_react/static/media/chat-logo.ccb03cd6.png",
+    "static/media/classroom-logo.d61961e7.png": "/mentor_react/static/media/classroom-logo.d61961e7.png",
+    "static/media/lesson-logo.e3bc5828.png": "/mentor_react/static/media/lesson-logo.e3bc5828.png",
+    "static/media/mentor_icon.b40cfe79.png": "/mentor_react/static/media/mentor_icon.b40cfe79.png",
+    "static/media/stafflesson7.0604780c.PNG": "/mentor_react/static/media/stafflesson7.0604780c.PNG",
+    "static/media/studentchat1.b075b471.PNG": "/mentor_react/static/media/studentchat1.b075b471.PNG",
+    "static/media/studentchat2.0b2e342d.PNG": "/mentor_react/static/media/studentchat2.0b2e342d.PNG",
+    "static/media/studentchat3.c4769391.PNG": "/mentor_react/static/media/studentchat3.c4769391.PNG",
+    "static/media/studentchat4.b77e78cd.PNG": "/mentor_react/static/media/studentchat4.b77e78cd.PNG",
+    "static/media/studentchat5.d092b462.PNG": "/mentor_react/static/media/studentchat5.d092b462.PNG",
+    "static/media/studentchat6.466fe975.PNG": "/mentor_react/static/media/studentchat6.466fe975.PNG",
+    "static/media/studentclass1.ea84fe1b.PNG": "/mentor_react/static/media/studentclass1.ea84fe1b.PNG",
+    "static/media/studentclass2.f2f2ff0b.PNG": "/mentor_react/static/media/studentclass2.f2f2ff0b.PNG",
+    "static/media/studentclass3.07e4a3d8.PNG": "/mentor_react/static/media/studentclass3.07e4a3d8.PNG",
+    "static/media/studentlesson2.f53a90a4.PNG": "/mentor_react/static/media/studentlesson2.f53a90a4.PNG",
+    "static/media/studentlesson3.0c441362.PNG": "/mentor_react/static/media/studentlesson3.0c441362.PNG",
+    "static/media/studentlesson4.44004a39.PNG": "/mentor_react/static/media/studentlesson4.44004a39.PNG"
   },
   "entrypoints": [
     "static/js/runtime-main.5c80b0cd.js",
     "static/css/2.f5c51995.chunk.css",
-    "static/js/2.4dccd2c2.chunk.js",
+    "static/js/2.a047ffa1.chunk.js",
     "static/css/main.11feef4a.chunk.css",
-    "static/js/main.425c63e3.chunk.js"
+    "static/js/main.a32412c2.chunk.js"
   ]
 }
